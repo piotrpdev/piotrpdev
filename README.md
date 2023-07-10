@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter 👋
 
-- 🌱 I’m currently working on my TypeScript skills
+- 🌱 I’m currently working on my Golang skills
 - ⚡ Fun fact: I love to play the piano
 
 ### Good books:
