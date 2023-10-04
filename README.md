@@ -25,12 +25,3 @@
   <a href="https://www.linkedin.com/in/peter-bogdan-placzek/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@piotrpdev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
-
-<br />
-<br />
-
----
-
-<img align="left" alt="Piotr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=piotrpdev&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-
-<img align="left" alt="Piotr's Most Used Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrpdev&hide_border=true&theme=dark" />
