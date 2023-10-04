@@ -4,11 +4,6 @@
 - 🌱 I’m currently working on my Go and Kubernetes skills
 - ⚡ Fun fact: I love to play the piano
 
-### Good books
-
-- [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger, Adam Wathan
-- [The Docker Handbook](https://docker.farhan.info/) by Farhan Hasin Chowdhury
-
 ### Things I code with
 
 | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0dc5c?style=flat-square&logo=javascript&logoColor=white" /> | <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" /> | <img alt="Java" src="https://img.shields.io/badge/-Java-blue?style=flat-square&logo=coffeescript&logoColor=white" /> | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> | <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" /> | Other |
