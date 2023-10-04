@@ -1,6 +1,6 @@
 # Hi there, I'm Peter 👋
 
-- 📚 I'm a Fullstack developer born in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> Poland, but have lived most of my life in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> Ireland
+- 📚 I'm a Full Stack Developer born in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> Poland, but have lived most of my life in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> Ireland
 - 🌱 I’m currently working on my Go and Kubernetes skills
 - ⚡ Fun fact: I love to play the piano
 
