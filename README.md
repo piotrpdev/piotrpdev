@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on my Golang and Kubernetes skills
 - ⚡ Fun fact: I love to play the piano
 
-### Good books:
+### Good books
 
 - [Refactoring UI](https://refactoringui.com/book/) by Steve Schoger, Adam Wathan
 - [The Docker Handbook](https://docker.farhan.info/) by Farhan Hasin Chowdhury
@@ -21,8 +21,6 @@
 | <img alt="Electron" src="https://img.shields.io/badge/-Electron-35353f?style=flat-square&logo=electron&logoColor=white" /> | | | | | | <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> |
 | <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> | | | | | | <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> |
 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> | | | | | | <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> |
-| <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" /> |
-| <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" /> |
 
 ### Where to find me
 
